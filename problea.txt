@@ -1,0 +1,57 @@
+ALSA lib pcm_dmix.c:1011:(snd_pcm_dmix_open) unable to initialize slave
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+ALSA lib pcm_asym.c:105:(_snd_pcm_asym_open) capture slave is not defined
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2666:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm_plug.c:835:(snd_pcm_plug_hw_refine_schange) Unable to find an usable slave format for 'plug:hw'
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S8
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U8
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S16_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S16_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U16_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U16_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S24_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S24_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U24_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U24_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S32_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S32_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U32_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U32_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S20_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S20_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U20_LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U20_BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S24_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S24_3BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U24_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U24_3BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S20_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S20_3BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U20_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U20_3BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S18_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: S18_3BE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U18_3LE
+ALSA lib pcm_plug.c:839:(snd_pcm_plug_hw_refine_schange) Format: U18_3BE
+ALSA lib pcm_plug.c:844:(snd_pcm_plug_hw_refine_schange) Slave format: IEC958_SUBFRAME_LE
