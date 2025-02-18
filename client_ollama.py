@@ -5,11 +5,12 @@ import speech_recognition as sr
 import re
 
 # Configura la porta seriale COM5
-serial_port = serial.Serial('COM5', 9600)
+serial_port = serial.Serial('/dev/ttyUSB0', 9600)
 
 # Configura il motore di sintesi vocale
 text_to_speech_engine = pyttsx3.init()
-text_to_speech_engine.setProperty('rate', 110)  # Imposta la velocità
+text_to_speech_engine.setProperty('rate', 130)  # Imposta la velocità
+text_to_speech_engine.setProperty('voice','italian')
 
 # Configura il riconoscimento vocale
 recognizer = sr.Recognizer()
@@ -43,7 +44,7 @@ def listen():
         return ""
 
 # Indirizzo del server Flask
-SERVER_URL = "http://127.0.0.1:5000/generate"
+SERVER_URL = "http://213.233.44.94:5000/generate"
 
 a = ""
 while a.lower() != "brake":
